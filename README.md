@@ -1,4 +1,5 @@
-eCom Web & Sales Blueprint
+*eCom Web & Sales Blueprint*
+
 A curated collection of high-selling "Shopify storefront samples", a strategic "marketing plan", and a list of must-have "plugins" to boost your eCommerce sales. This resource is perfect for beginners and experts looking to build and scale their Shopify store efficiently.
 
 What’s Inside?
