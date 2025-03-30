@@ -1,6 +1,3 @@
-eCom-Web-Sales-Accelerator
-This repository provides a complete guide to building a successful Shopify store. It includes examples of high-selling storefronts, a strategic marketing plan, and a list of essential plugins to increase sales. Get the full course for step-by-step store setup, advanced sales techniques, insights to scale your business. ( https://link.me/medholy)
-
 eCom Web & Sales Blueprint
 A curated collection of high-selling "Shopify storefront samples", a strategic "marketing plan", and a list of must-have "plugins" to boost your eCommerce sales. This resource is perfect for beginners and experts looking to build and scale their Shopify store efficiently.
 
